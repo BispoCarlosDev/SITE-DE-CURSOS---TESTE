@@ -27,12 +27,17 @@ a {
 
 div {
     display: flex;
-    width: 85%;
-    height: 470px;
+    width: 80%;
+    height: 2000px;
     padding: 10px;
     text-align: justify;
     align-items: flex-end;
     position: relative;
     left: 50%;
     transform: translate(-50%);
+}
+
+.destaque{
+    width: 60%;
+    height: 470px;
 }
